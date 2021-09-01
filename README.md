@@ -3,7 +3,7 @@
 
 Fastify is built as a general-purpose web framework, but it shines when building extremely fast HTTP APIs that use JSON as the data format. 
 
-These are the main features and principles on which fastify has been built:
+These are the main features and principles on which Fastify has been built:
 
 * Highly performant: depending on the code complexity Fastify can serve up to 30 thousand requests per second.
 * Extensible: Fastify is fully extensible via its hooks, plugins and decorators.
